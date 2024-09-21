@@ -1,3 +1,6 @@
+![preview1](https://github.com/wanshade/atm-go/blob/main/1.png?raw=true)
+![preview1](https://github.com/wanshade/atm-go/blob/main/2.png?raw=true)
+![preview1](https://github.com/wanshade/atm-go/blob/main/3.png?raw=true)
 
 # Virtual ATM
 
