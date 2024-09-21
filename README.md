@@ -78,7 +78,7 @@ $env:DATABASE_URL = "postgresql://<user>:<password>@<host>/<dbname>?sslmode=requ
 Jalankan aplikasi dengan perintah:
 
 ```bash
-go run main.go
+go run atm.go
 ```
 
 ## Penggunaan
